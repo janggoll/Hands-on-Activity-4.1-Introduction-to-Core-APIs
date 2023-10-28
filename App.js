@@ -11,7 +11,7 @@ export default function App() {
         <Text>BALDOZA</Text>
       </View>
       <View style={styles.inputMethod}>
-        <Text>Activity No. 6</Text>
+        <Text>Hands-on Activity 4.1 Introduction to Core APIs</Text>
       </View>
     </View>
 
@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
   },
   inputMethod: {
     flex: 1, 
-    backgroundColor: 'whites',
+    backgroundColor: 'white',
   
     alignItems: 'center',
   },
